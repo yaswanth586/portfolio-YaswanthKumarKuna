@@ -105,6 +105,10 @@ nav ul li a {
     width: 35%;
 }
 
+.educational_qualification{
+    animation: slideUp 1.5s ease-in-out;
+}
+
 .projects{
     display: flex;
     justify-content: center;
